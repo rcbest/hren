@@ -1,0 +1,13 @@
+git config --global user.name "username"
+git config --global user.email "username.user@example.com"
+git config --list
+git init
+git status
+
+git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1
+
+git pull  синхронизация
+
+ git add bebra.txt
+ git commit -m "Bebra"
+ git push origin master

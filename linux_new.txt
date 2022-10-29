@@ -1,0 +1,14 @@
+ man  -k blk
+
+strings command searches for text characters in a binary file
+od command, which displays the contents of the file in octal format -x -h hex format
+
+
+printenv export unset
+
+source - used to read and execute the content of a file (for bashrc) 
+tr -s ' '  убрать пробелы в grep
+cut -d " " -f 1-4
+
+df -T ,  lsblk --fs   - what is fs type
+
