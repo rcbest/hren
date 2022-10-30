@@ -30,3 +30,11 @@ git push -u origin main
 git remote add origin https://github.com/rcbest/hren.git
 git branch -M main
 git push -u origin main
+
+ git branch  посмотреть 
+ git checkout new_branch   - переключиться на новый бранч
+ git checkout -b bebra - создать новый бранч
+ git push --set-upstream origin bebra
+ git branch -d bebra - удалить бранч
+
+ git rebase --continue
